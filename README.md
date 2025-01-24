@@ -4,6 +4,8 @@
 
 VEEZOR is a next-generation platform designed to simplify the creation, deployment, and scaling of AI agents. By eliminating the need for code, VEEZOR democratizes access to advanced AI, enabling developers, teams, and enterprises to design sophisticated AI solutions with ease. Whether you're building a prototype or deploying at scale, VEEZOR's intuitive tools and robust infrastructure make AI accessible and impactful for everyone.
 
+[veezor.dev](https://veezor.dev) | [x.com/veezorai](https://x.com/veezorai)
+
 ---
 
 ## **Vision**
@@ -183,8 +185,7 @@ Yes, we encourage users to contribute and share their workflows through the VEEZ
 
 For questions, support, or collaboration opportunities, feel free to reach out:
 
-- **Email:** support@veezor.dev  
-- **Community Forum:** [Coming Soon]  
+- **Email:** support@veezor.dev   
 - **GitHub Issues:** Submit your queries or bug reports in our repository.
 
 We’re excited to have you on board as part of the VEEZOR community. Let’s build the future of AI together!
